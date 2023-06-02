@@ -1,8 +1,6 @@
 
-# ✨ Hardhat starter kit ✨
-This repository serves as a starting point to quickly spin up a new Hardhat project with a range of powerful tools and features already available.
-
-With this starter kit, you can begin working on your project immediately, without having to spend time setting up your environment or configuring your tools. The project comes pre-configured with Hardhat, a popular development environment for building Ethereum smart contracts, as well as a range of plugins and packages that will help streamline your development process.
+# ✨ Verify Signature with Solidity ✨
+The VerifySignature contract allows you to verify the validity of signatures using the Ethereum Signed Message scheme. It provides functions to verify if a specific address was the signer of a given message. The contract is useful for validating signed messages and implementing secure authentication mechanisms.
 
 # Requirements 🔧
 
